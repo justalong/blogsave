@@ -7,11 +7,11 @@ menubar:
     # title: 标题
     # url: 点击跳转到哪，支持相对路径和绝对路径
     - id: nav
-      theme: '#ffffff' # 高亮时的颜色，仅 svg 中 fill="currentColor" 时有效
+      theme: '#ccc' # 高亮时的颜色，仅 svg 中 fill="currentColor" 时有效
       title: 资源导航 # 标题
       url: https://github.com/justalong/navjson
     - id: zhihu
-      theme: '#ffffff'
+      theme: '#ccc'
       title: 知乎
       url: https://www.zhihu.com/people/liu-yong-shun-34/posts
 
