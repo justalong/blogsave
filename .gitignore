@@ -3,4 +3,3 @@ node_modules
 public/
 db.json
 package-lock.json
-.github

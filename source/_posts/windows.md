@@ -49,5 +49,5 @@ topic: windows
 - Everything可以配置一下，隐藏文件不搜索，减少不必要的内容搜索
 - .**，意思是排除所有的隐藏文件（.开头都是隐藏内容）
 
-![](https://s21.ax1x.com/2025/03/17/pEdGeQx.png)
+![](https://pub-7fe6bbbffb8045bf9f5bbb3f378ea457.r2.dev/Snipaste_2025-03-17_20-50-54.png)
  测试

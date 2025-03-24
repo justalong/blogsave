@@ -37,6 +37,8 @@ C:\Windows\System32\drivers\etc\hosts
 
 - **通过 win + X => 点击运行 => 输入cmd回车 => 弹出黑色终端 =>  输入 ping github.com**
 
+![](https://pub-7fe6bbbffb8045bf9f5bbb3f378ea457.r2.dev/Snipaste_2025-03-24_07-54-48.png)
+
 ```
 # GitHub Start
 140.82.113.3      github.com
